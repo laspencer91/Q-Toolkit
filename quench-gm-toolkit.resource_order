@@ -1,0 +1,9 @@
+{
+  "FolderOrderSettings": [
+    {"name":"Quench Toolkit","order":1,"path":"folders/Quench Toolkit.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"__qtk_class_list","order":1,"path":"scripts/__qtk_class_list/__qtk_class_list.yy",},
+    {"name":"__qtk_utils","order":2,"path":"scripts/__qtk_utils/__qtk_utils.yy",},
+  ],
+}
