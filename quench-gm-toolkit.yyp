@@ -21,10 +21,15 @@
   },
   "resources": [
     {"id":{"name":"__qtk_class_list","path":"scripts/__qtk_class_list/__qtk_class_list.yy",},},
+    {"id":{"name":"__qtk_class_state_machine","path":"scripts/__qtk_class_state_machine/__qtk_class_state_machine.yy",},},
     {"id":{"name":"__qtk_utils","path":"scripts/__qtk_utils/__qtk_utils.yy",},},
+    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},},
     {"id":{"name":"__qtk_class_curve_player","path":"scripts/__qtk_class_curve_player/__qtk_class_curve_player.yy",},},
   ],
-  "RoomOrderNodes": [],
+  "RoomOrderNodes": [
+    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+  ],
   "templateType": "game",
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
