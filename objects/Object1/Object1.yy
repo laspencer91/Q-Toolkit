@@ -8,8 +8,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "quench-gm-toolkit",
-    "path": "quench-gm-toolkit.yyp",
+    "name": "Q-Toolkit",
+    "path": "Q-Toolkit.yyp",
   },
   "parentObjectId": null,
   "persistent": false,
